@@ -84,8 +84,8 @@
 
 ---
 
-<!-- ====== HIGHLIGHTED PROJECTS ====== -->
-## 🚀 Highlighted Projects
+<!-- ====== FEATURED PROJECTS ====== -->
+## 🚀 Featured Projects
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Tap+to+open+my+featured+projects;VidyaLink+%E2%80%A2+Vedyura;Built+to+be+useful+and+easy+to+access" alt="Projects Typing SVG" />
@@ -96,9 +96,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>✨ VidyaLink</h3>
-        <p>
-          Peer-to-peer campus learning platform with a live demo and source code access.
-        </p>
+        <p><strong>Peer-to-peer campus learning platform</strong> with a live demo and source code access.</p>
 
         <p>
           <a href="https://vidyalink-project.vercel.app/" target="_blank">
@@ -121,9 +119,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🌿 Vedyura</h3>
-        <p>
-          Ayurvedic diet management prototype focused on practical health guidance and smart workflow.
-        </p>
+        <p><strong>Ayurvedic diet management prototype</strong> focused on practical health guidance and smart workflow.</p>
 
         <p>
           <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
@@ -151,15 +147,6 @@
 
 ---
 
-<!-- ====== ACHIEVEMENTS ====== -->
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himeshxd7&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 <!-- ====== WHAT I DO ====== -->
 ## 🛠️ What I Build
 
@@ -179,7 +166,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Himesh%20Wani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:himeshwani93@gmail.com">
+  <a href="mailto:himeshwani93@gmail.com?subject=Hello%20Himesh&body=Hi%20Himesh,%0D%0A" target="_blank">
     <img src="https://img.shields.io/badge/Email-Himesh%20Wani-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
