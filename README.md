@@ -84,23 +84,70 @@
 
 ---
 
-<!-- ====== PROJECTS ====== -->
-## 🚀 Featured Projects
+<!-- ====== HIGHLIGHTED PROJECTS ====== -->
+## 🚀 Highlighted Projects
 
-### 🌿 Vedyura
-AI-powered Ayurvedic diet management app with camera-based PPG heart rate detection and dosha-based recommendations.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Tap+to+open+my+featured+projects;VidyaLink+%E2%80%A2+Vedyura;Built+to+be+useful+and+easy+to+access" alt="Projects Typing SVG" />
+</p>
 
-### 🎓 VidyaLink
-Peer-to-peer campus learning platform for students, tutors, and course discovery.
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>✨ VidyaLink</h3>
+        <p>
+          Peer-to-peer campus learning platform with a live demo and source code access.
+        </p>
 
-### 🏫 Eureka School Website
-School website with admissions, gallery, sports, contact, and dynamic content sections.
+        <p>
+          <a href="https://vidyalink-project.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-Open%20VidyaLink-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
 
-### 🤖 AI Customer Support Agent
-Smart support automation system for business websites and customer queries.
+        <p>
+          <a href="https://github.com/himeshxd7/vidyalink-project" target="_blank">
+            <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
 
-### 📊 Quant / Finance Tools
-Projects around volatility modeling, sentiment analysis, and sector scoring.
+        <p>
+          <img src="https://img.shields.io/badge/Tap%20to%20Explore-Animated%20Access-8B5CF6?style=for-the-badge" />
+        </p>
+      </div>
+    </td>
+
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🌿 Vedyura</h3>
+        <p>
+          Ayurvedic diet management prototype focused on practical health guidance and smart workflow.
+        </p>
+
+        <p>
+          <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
+            <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+
+        <p>
+          <img src="https://img.shields.io/badge/Featured%20Project-Open%20Now-F97316?style=for-the-badge" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://vidyalink-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20VidyaLink-Click%20Here-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
+    <img src="https://img.shields.io/badge/Go%20to%20Vedyura-Click%20Here-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -128,14 +175,12 @@ Projects around volatility modeling, sentiment analysis, and sector scoring.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/himesh-wani-6b9847362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Himesh%20Wani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/himeshxd7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:himeshwani93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Himesh%20Wani-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
