@@ -88,55 +88,73 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Tap+to+open+my+featured+projects;VidyaLink+%E2%80%A2+Vedyura;Built+to+be+useful+and+easy+to+access" alt="Projects Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Tap+to+open+my+featured+projects;VidyaLink+%E2%80%A2+Vedyura;Compact+spotlight+cards+for+quick+access" alt="Projects Typing SVG" />
 </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://vidyalink-project.vercel.app/" target="_blank">
+        <img
+          src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=✨%20VidyaLink&fontSize=34&fontColor=ffffff&color=0:0F172A,50:1E293B,100:312E81"
+          alt="VidyaLink Banner"
+        />
+      </a>
+
+      <p align="center">
+        <img src="https://img.shields.io/badge/Live%20Demo-Open%20Now-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+
+      <p align="center">
+        <a href="https://vidyalink-project.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐%20Tap%20to%20Visit-Live%20Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br/>
+        <a href="https://github.com/himeshxd7/vidyalink-project" target="_blank">
+          <img src="https://img.shields.io/badge/📂%20View%20Repository-Source%20Code-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+
+      <p align="center">
+        Peer-to-peer campus learning platform for students, tutors, and course discovery.
+      </p>
+    </td>
+
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
+        <img
+          src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=🌿%20Vedyura&fontSize=34&fontColor=ffffff&color=0:111827,50:312E81,100:7C3AED"
+          alt="Vedyura Banner"
+        />
+      </a>
+
+      <p align="center">
+        <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prototype-Highlighted-8B5CF6?style=for-the-badge" />
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
+          <img src="https://img.shields.io/badge/📂%20Tap%20to%20Open-Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+
+      <p align="center">
+        Ayurvedic diet management prototype focused on practical health guidance and smart workflow.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://vidyalink-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9C%A8%20VIDYALINK%20LIVE%20DEMO-Click%20to%20Open-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-### 🎓 VidyaLink
-
-<p align="center">
-  <strong>Peer-to-peer campus learning platform</strong>
-</p>
-
-<p align="center">
-  <a href="https://vidyalink-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Open%20VidyaLink-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔥%20Open%20VidyaLink%20Live%20Demo-Click%20Here-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/himeshxd7/vidyalink-project" target="_blank">
-    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  VidyaLink is a student-focused platform built for course discovery, peer learning, and easy access to tutoring support.
-</p>
-
----
-
-### 🌿 Vedyura
-
-<p align="center">
-  <strong>Ayurvedic diet management prototype</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
-    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌿%20Open%20Vedyura%20Repo-Click%20Here-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  Vedyura is an Ayurvedic diet management prototype focused on practical health guidance, smart workflow, and personalized recommendations.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Click+the+buttons+above+to+explore+my+projects;Building+products+that+solve+real+problems" alt="Projects Footer Typing SVG" />
 </p>
 
 ---
