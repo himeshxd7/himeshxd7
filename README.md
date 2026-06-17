@@ -91,58 +91,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Tap+to+open+my+featured+projects;VidyaLink+%E2%80%A2+Vedyura;Built+to+be+useful+and+easy+to+access" alt="Projects Typing SVG" />
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>✨ VidyaLink</h3>
-        <p><strong>Peer-to-peer campus learning platform</strong> with a live demo and source code access.</p>
+<p align="center">
+  <a href="https://vidyalink-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9C%A8%20VIDYALINK%20LIVE%20DEMO-Click%20to%20Open-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-        <p>
-          <a href="https://vidyalink-project.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live%20Demo-Open%20VidyaLink-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
-          </a>
-        </p>
+### 🎓 VidyaLink
 
-        <p>
-          <a href="https://github.com/himeshxd7/vidyalink-project" target="_blank">
-            <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-
-        <p>
-          <img src="https://img.shields.io/badge/Tap%20to%20Explore-Animated%20Access-8B5CF6?style=for-the-badge" />
-        </p>
-      </div>
-    </td>
-
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🌿 Vedyura</h3>
-        <p><strong>Ayurvedic diet management prototype</strong> focused on practical health guidance and smart workflow.</p>
-
-        <p>
-          <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
-            <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-
-        <p>
-          <img src="https://img.shields.io/badge/Featured%20Project-Open%20Now-F97316?style=for-the-badge" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>Peer-to-peer campus learning platform</strong>
+</p>
 
 <p align="center">
   <a href="https://vidyalink-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Go%20to%20VidyaLink-Click%20Here-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Open%20VidyaLink-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
-    <img src="https://img.shields.io/badge/Go%20to%20Vedyura-Click%20Here-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/himeshxd7/vidyalink-project" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  VidyaLink is a student-focused platform built for course discovery, peer learning, and easy access to tutoring support.
+</p>
+
+---
+
+### 🌿 Vedyura
+
+<p align="center">
+  <strong>Ayurvedic diet management prototype</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/himeshxd7/Vedyura_Prototype" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Vedyura is an Ayurvedic diet management prototype focused on practical health guidance, smart workflow, and personalized recommendations.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Click+the+buttons+above+to+explore+my+projects;Building+products+that+solve+real+problems" alt="Projects Footer Typing SVG" />
 </p>
 
 ---
@@ -166,9 +160,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Himesh%20Wani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:himeshwani93@gmail.com?subject=Hello%20Himesh&body=Hi%20Himesh,%0D%0A" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Himesh%20Wani-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=himeshwani93@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-himeshwani93%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <strong>Email:</strong> himeshwani93@gmail.com
 </p>
 
 ---
