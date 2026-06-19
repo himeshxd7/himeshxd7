@@ -135,12 +135,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://vidyalink-project.vercel.app/">
-    <img src="https://img.shields.io/badge/🔥_OPEN_VIDYALINK_LIVE_DEMO-CLICK_HERE-success?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 <!-- ====== WHAT I DO ====== -->
